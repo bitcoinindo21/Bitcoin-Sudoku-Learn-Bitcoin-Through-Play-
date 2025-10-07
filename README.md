@@ -27,6 +27,12 @@ Community-made: Created by Bitcoin Indonesia to inspire local adoption and liter
 
 <img width="819" height="1024" alt="signal-2025-10-06-105642_003" src="https://github.com/user-attachments/assets/808ea467-b167-4279-911e-dc96af410198" />
 
+The Bitcoin Friends Activity Box is part of our Open Source Games Iniciative to educate people around the world on Bitcoin and its principles. 
+Check out the other Games that we open-sourced. For example the 👹 Inflation Monster Game for Kids (https://github.com/bitcoinindo21/inflation-monster-game) or the 🎁 Bitcoin Friends Activity Box (https://github.com/bitcoinindo21/Bitcoin-Friends-Activity-Box)
+
+![game](https://github.com/user-attachments/assets/8210407e-5021-4333-80d3-577bdc0933e9)
+
+
 **🧩 How to Play**
 Place each symbol on the grid so that no symbol repeats in any row, column, or box — just like classic Sudoku! It’s a simple yet powerful way to train focus, logic, and Bitcoin curiosity.
 

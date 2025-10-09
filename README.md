@@ -37,3 +37,24 @@ Check out the other Games that we open-sourced. For example the 👹 Inflation M
 Place each symbol on the grid so that no symbol repeats in any row, column, or box — just like classic Sudoku! It’s a simple yet powerful way to train focus, logic, and Bitcoin curiosity.
 
 <img width="1080" height="1350" alt="signal-2025-10-06-105642_004" src="https://github.com/user-attachments/assets/d5070193-d9d8-4336-8ac2-f86d80c50538" />
+
+The Bitcoin Sudoku Game is part of our Open Source Games Iniciative to educate people around the world on Bitcoin and its principles. And because it’s open source, you can modify the language in the game designs by visiting the following link:
+
+**EDITABLE CANVA LINK**
+
+**Sudoku Box**
+
+01. Front Side 
+https://www.canva.com/design/DAG1QxycTCg/dvPCbJDhv92UPQDYH8wRzw/edit?utm_content=DAG1QxycTCg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+02. Left and Right Side
+https://www.canva.com/design/DAG1Q4tzVKI/PXnMN8EGW0m4HKi4WgcrXA/edit?utm_content=DAG1Q4tzVKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Sudoku Stickers**
+https://www.canva.com/design/DAG1Q7MsLEs/hL6qhWdmO4uMythMfJH1iQ/edit?utm_content=DAG1Q7MsLEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Sudoku Board**
+https://www.canva.com/design/DAG1QxtnFqo/rdKkejoCKnZTBSEOFfA9aw/edit?utm_content=DAG1QxtnFqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Sudoku Question**
+https://www.canva.com/design/DAG1QwsMlI8/rVy_nhTNaY2ilzcPz71Ytg/edit?utm_content=DAG1QwsMlI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

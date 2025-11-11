@@ -1,4 +1,4 @@
-**Bitcoin Sudoku** is an educational logic game where players solve Sudoku puzzles using Bitcoin icons instead of numbers. A fun, hands-on way to learn about Bitcoin — made in Indonesia, Bitcoin-only. Available in two languages (EN + ID).
+**Bitcoin Sudoku** is an educational logic game where players solve Sudoku puzzles using Bitcoin icons instead of numbers. A fun, hands-on way to learn about Bitcoin — made in Indonesia, Bitcoin-only. Available in bilingual (EN + ID).
 
 Sharpen your logic while exploring the world of Bitcoin!
 Bitcoin Sudoku is a fun, family-friendly game designed to introduce people to Bitcoin in an engaging, hands-on way. Instead of numbers, players use Bitcoin-themed icons — such as the ₿ coin, lightning bolt, block, and cute mascot — to complete Sudoku puzzles.

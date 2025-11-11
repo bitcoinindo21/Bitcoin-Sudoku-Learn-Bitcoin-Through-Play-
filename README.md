@@ -50,6 +50,9 @@ https://www.canva.com/design/DAG1QxycTCg/dvPCbJDhv92UPQDYH8wRzw/edit?utm_content
 02. Left and Right Side
 https://www.canva.com/design/DAG1Q4tzVKI/PXnMN8EGW0m4HKi4WgcrXA/edit?utm_content=DAG1Q4tzVKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+**Sudoku Pouch for Character Pieces**
+https://www.canva.com/design/DAG4B0r92mA/fyPq19hJQhMdP6ydKAp8jA/edit?utm_content=DAG4B0r92mA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **Sudoku Stickers**
 https://www.canva.com/design/DAG1Q7MsLEs/hL6qhWdmO4uMythMfJH1iQ/edit?utm_content=DAG1Q7MsLEs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

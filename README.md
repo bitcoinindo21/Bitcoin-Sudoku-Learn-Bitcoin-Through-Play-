@@ -61,3 +61,6 @@ https://www.canva.com/design/DAG1QxtnFqo/rdKkejoCKnZTBSEOFfA9aw/edit?utm_content
 
 **Sudoku Question**
 https://www.canva.com/design/DAG1QwsMlI8/rVy_nhTNaY2ilzcPz71Ytg/edit?utm_content=DAG1QwsMlI8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Sudoku Character Pieces**
+https://www.canva.com/design/DAG4YgtKpAE/7VRJsedtUNOBPA4ngTFD0Q/edit?utm_content=DAG4YgtKpAE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

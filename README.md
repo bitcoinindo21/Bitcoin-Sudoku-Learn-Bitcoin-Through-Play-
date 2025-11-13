@@ -25,7 +25,8 @@ Educational: Learn Bitcoin fundamentals through pattern recognition and logical 
 Bitcoin-only: No shitcoins — just pure Bitcoin fun
 Community-made: Created by Bitcoin Indonesia to inspire local adoption and literacy
 
-<img width="819" height="1024" alt="signal-2025-10-06-105642_003" src="https://github.com/user-attachments/assets/808ea467-b167-4279-911e-dc96af410198" />
+<img width="2160" height="3840" alt="SUDOKU PREVIEW" src="https://github.com/user-attachments/assets/74fb05d8-e7ad-47e4-a39b-bf07b14bf080" />
+
 
 The Bitcoin Friends Activity Box is part of our Open Source Games Iniciative to educate people around the world on Bitcoin and its principles. 
 Check out the other Games that we open-sourced. For example the 👹 Inflation Monster Game for Kids (https://github.com/bitcoinindo21/inflation-monster-game) or the 🎁 Bitcoin Friends Activity Box (https://github.com/bitcoinindo21/Bitcoin-Friends-Activity-Box)

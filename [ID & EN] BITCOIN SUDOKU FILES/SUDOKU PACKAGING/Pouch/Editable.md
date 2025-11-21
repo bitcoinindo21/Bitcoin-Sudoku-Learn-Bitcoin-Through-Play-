@@ -1,4 +1,4 @@
-Bitcoin Sudoku Pouch Design
+Bitcoin Sudoku Pouch
 --
 https://www.canva.com/design/DAG4B0r92mA/fyPq19hJQhMdP6ydKAp8jA/edit?utm_content=DAG4B0r92mA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

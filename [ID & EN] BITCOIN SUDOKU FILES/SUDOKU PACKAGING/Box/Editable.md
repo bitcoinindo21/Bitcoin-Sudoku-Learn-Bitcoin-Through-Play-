@@ -1,7 +1,7 @@
 Bitcoin Sudoku Box
 --
 
-Top and Bottom Box
+Top and Bottom Side
 https://www.canva.com/design/DAG1QxycTCg/dvPCbJDhv92UPQDYH8wRzw/edit?utm_content=DAG1QxycTCg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <img width="2444" height="3000" alt="SUDOKU BOX BILINGUAL TOP" src="https://github.com/user-attachments/assets/b6ba01a0-068e-43cf-83c7-3993249d5983" />

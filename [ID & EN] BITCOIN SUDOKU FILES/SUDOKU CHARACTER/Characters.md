@@ -1,4 +1,4 @@
-Bitcoin Sudoku Character
+Bitcoin Sudoku Characters
 --
 https://drive.google.com/drive/folders/1ts2AvpxoKX35ZFR8vE3uUik64dXLtqti?usp=sharing
 

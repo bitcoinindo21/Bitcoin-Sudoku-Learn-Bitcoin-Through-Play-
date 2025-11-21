@@ -1,4 +1,4 @@
-Bitcoin Sudoku Challenges
+Bitcoin Sudoku Challenges in 3 Levels
 --
 
 https://www.canva.com/design/DAG5X9tNp7k/sL3hkRw1dzS2YY1GQVcIfg/edit?utm_content=DAG5X9tNp7k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

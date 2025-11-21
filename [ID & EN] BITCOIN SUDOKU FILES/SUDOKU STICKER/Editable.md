@@ -1,4 +1,4 @@
-Bitcoin Sudoku Sticker (Bilingual)
+Bitcoin Sudoku Characters Sticker (Bilingual)
 --
 
 

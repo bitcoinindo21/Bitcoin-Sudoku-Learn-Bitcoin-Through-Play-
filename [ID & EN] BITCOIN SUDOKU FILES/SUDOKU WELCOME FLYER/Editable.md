@@ -1,4 +1,4 @@
-Bitcoin Sudoku Welcoming Flyer
+Bitcoin Sudoku Introduction Flyer
 --
 
 https://www.canva.com/design/DAG5X5ismdY/t4Ytxf44AgyViJ52A5Mg-g/edit?utm_content=DAG5X5ismdY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

@@ -1,4 +1,4 @@
-Bitcoin Sudoku Board
+Bitcoin Sudoku Board Design
 --
 https://www.canva.com/design/DAG5XnL1tT4/-h99-qCD5UWEYOHBXICiBg/edit?utm_content=DAG5XnL1tT4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
